@@ -1,0 +1,10 @@
+.container > h1 {
+    color: slateblue;
+    text-align: center;
+}
+
+.list-item {
+    padding: 16px;
+    margin: 8px;
+    background-color: aliceblue;
+}
